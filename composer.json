@@ -17,5 +17,5 @@
         "psr-4": {
             "Liuning\\Laradmin\\Tests\\": "tests/"
         }
-    },
+    }
 }
